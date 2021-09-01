@@ -10,6 +10,6 @@ To run just execute make command on linux
 
 ![Phong](img_phong.ppm)
 
-![Phong](img_shell.ppm)
+![Shell](img_shell.ppm)
 
-![Phong](img_tex.ppm)
+![Balls](img_tex.ppm)
