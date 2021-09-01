@@ -8,8 +8,8 @@ To run just execute make command on linux
 
 # Results
 
-![Phong](img_phong.jpg)
+![Phong](img_phong.jpeg)
 
-![Shell](img_shell.jpg)
+![Shell](img_shell.jpeg)
 
-![Balls](img_tex.jpg)
+![Balls](img_tex.jpeg)
