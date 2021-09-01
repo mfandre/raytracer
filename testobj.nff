@@ -1,0 +1,11 @@
+# viewpoint
+v
+from 20 0 20
+at 0 0 0
+up 0 1 0
+angle 60
+hither 0
+resolution 640 480
+
+#arquivo obj
+obj novo.off

@@ -1,0 +1,6 @@
+all: 
+	g++ -c OffObject.cc
+	g++ -s OffObject.o -o obj -O3 -lrt
+	
+clean:
+	rm *.o
